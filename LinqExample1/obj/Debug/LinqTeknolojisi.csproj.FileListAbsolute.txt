@@ -1,0 +1,8 @@
+C:\Users\ilkin\Documents\Visual Studio 2015\Sitelerasp.net\LinqExample1\bin\Debug\LinqExample1.exe.config
+C:\Users\ilkin\Documents\Visual Studio 2015\Sitelerasp.net\LinqExample1\bin\Debug\LinqExample1.exe
+C:\Users\ilkin\Documents\Visual Studio 2015\Sitelerasp.net\LinqExample1\bin\Debug\LinqExample1.pdb
+C:\Users\ilkin\Documents\Visual Studio 2015\Sitelerasp.net\LinqExample1\bin\Debug\FakeData.dll
+C:\Users\ilkin\Documents\Visual Studio 2015\Sitelerasp.net\LinqExample1\bin\Debug\FakeData.pdb
+C:\Users\ilkin\Documents\Visual Studio 2015\Sitelerasp.net\LinqExample1\obj\Debug\LinqTeknolojisi.csprojResolveAssemblyReference.cache
+C:\Users\ilkin\Documents\Visual Studio 2015\Sitelerasp.net\LinqExample1\obj\Debug\LinqExample1.exe
+C:\Users\ilkin\Documents\Visual Studio 2015\Sitelerasp.net\LinqExample1\obj\Debug\LinqExample1.pdb
